@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+pillow
+numpy
+h5py
+gdown
+requests
