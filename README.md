@@ -11,7 +11,7 @@ This project combines machine learning and deep learning techniques to detect an
 * Model Optimization: Fine-tuned the models to achieve high accuracy in detection and prediction.
 * Interactive Web Application: Deployed a Streamlit-based web app for real-time predictions, allowing users to upload images or input data for analysis.
 # Results
-The project demonstrated high accuracy in both detecting and predicting breast cancer, providing a reliable tool for medical image classification and decision-making.
+The project demonstrated high accuracy in both detecting and predicting breast cancer. The Random Forest classifier model achieved an accuracy of 95.6% on the dataset while the CNN achieved an overall accuracy of 86.67% on validation data providing a reliable tool for medical image classification and decision-making.
 
 # Technologies Used
 * Machine Learning: Random Forest
